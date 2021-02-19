@@ -19,6 +19,7 @@
 		224CECB725DE5C3F00D8F608 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224CECB625DE5C3F00D8F608 /* ItemDetail.swift */; };
 		224CECBB25DE943C00D8F608 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224CECBA25DE943C00D8F608 /* OrderView.swift */; };
 		224CECBE25DE952900D8F608 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224CECBD25DE952900D8F608 /* MainView.swift */; };
+		22DC59FE25DF9EF600F13F47 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DC59FD25DF9EF600F13F47 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		224CECB625DE5C3F00D8F608 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		224CECBA25DE943C00D8F608 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		224CECBD25DE952900D8F608 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		22DC59FD25DF9EF600F13F47 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				224CECB625DE5C3F00D8F608 /* ItemDetail.swift */,
 				224CECBA25DE943C00D8F608 /* OrderView.swift */,
 				224CECBD25DE952900D8F608 /* MainView.swift */,
+				22DC59FD25DF9EF600F13F47 /* CheckoutView.swift */,
 				224CECAC25DE4EEF00D8F608 /* Helper.swift */,
 				224CECAA25DE4EEE00D8F608 /* menu.json */,
 				224CECAB25DE4EEE00D8F608 /* Menu.swift */,
@@ -165,6 +168,7 @@
 			files = (
 				224CECB725DE5C3F00D8F608 /* ItemDetail.swift in Sources */,
 				224CECBE25DE952900D8F608 /* MainView.swift in Sources */,
+				22DC59FE25DF9EF600F13F47 /* CheckoutView.swift in Sources */,
 				224CECBB25DE943C00D8F608 /* OrderView.swift in Sources */,
 				224CECAF25DE4EEF00D8F608 /* Menu.swift in Sources */,
 				224CEC9C25DE4AE400D8F608 /* ContentView.swift in Sources */,
